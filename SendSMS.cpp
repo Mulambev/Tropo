@@ -10,7 +10,7 @@ SYSTEM_MODE(AUTOMATIC);
 
 /* Constants -----------------------------------------------------------------*/
 const char webhookName[] = "sendSMS";
-const char cellNumber[] = "+16098454254";   // Cell Phone Number (Ex: +15555555555)
+const char cellNumber[] = "+15555555555";   // Cell Phone Number (Ex: +15555555555)
 
 /* Objects -------------------------------------------------------------------*/
 
